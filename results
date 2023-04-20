@@ -1,0 +1,48 @@
+Ilość elementów: 100
+BubbleSort:	943 us
+CombSort:	69 us
+QuickSort:	71 us
+HeapSort:	691 us
+Arrays.sort():	892 us
+
+Ilość elementów: 1000
+BubbleSort:	18090 us
+CombSort:	3612 us
+QuickSort:	947 us
+HeapSort:	827 us
+Arrays.sort():	1461 us
+
+Ilość elementów: 10000
+BubbleSort:	395 ms
+CombSort:	16 ms
+QuickSort:	5 ms
+HeapSort:	7 ms
+Arrays.sort():	10 ms
+
+Ilość elementów: 100000
+BubbleSort:	24528 ms
+CombSort:	29 ms
+QuickSort:	35 ms
+HeapSort:	33 ms
+Arrays.sort():	99 ms
+
+Ilość elementów: 1000000
+BubbleSort:	0 ms [18 min i się nie zrobiło]
+CombSort:	714 ms
+QuickSort:	521 ms
+HeapSort:	687 ms
+Arrays.sort():	479 ms
+
+Ilość elementów: 10000000
+BubbleSort:	0 ms
+CombSort:	4111 ms
+QuickSort:	17396 ms
+HeapSort:	5292 ms
+Arrays.sort():	1238 ms
+
+Ilość elementów: 100000000
+BubbleSort:	0 ms
+CombSort:	28483 ms
+QuickSort:	0 ms [13 min i się nie zrobiło]
+HeapSort:	45335 ms
+Arrays.sort():	7355 ms
